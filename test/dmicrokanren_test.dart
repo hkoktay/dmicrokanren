@@ -1,6 +1,6 @@
 import 'dart:core';
 import 'package:test/test.dart';
-import 'package:dmk/dmk.dart';
+import 'package:dmicrokanren/dmicrokanren.dart';
 
 var aAndB = conj(callFresh((a) => equal(a, 7)),
     callFresh((b) => disj(equal(b, 5), equal(b, 6))));

@@ -32,7 +32,7 @@
 /// the buildin dart List data structure instead of cons pairs. I could have
 /// used an iterative algorithm for mplus instead of the original recursive one
 /// but I wanted to stay close to the orginal implementation.
-library dmk;
+library dmicrokanren;
 
 import 'dart:core';
 

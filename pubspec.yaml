@@ -1,4 +1,4 @@
-name: dmk
+name: dmicrokanren
 version: 0.5.0
 description: The microkanren language implemented with dart
 author: hknkoktay <hknkoktay+pub@gmail.com>
